@@ -1,5 +1,5 @@
 {
-  "name": "redis",
+  "name": "@torderdev/node-redis",
   "version": "3.1.2",
   "description": "A high performance Redis client.",
   "keywords": [
